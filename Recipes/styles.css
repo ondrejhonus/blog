@@ -71,3 +71,12 @@ a:hover{
     align-items: center;
     text-align: left; /* Add this line to override body's text-align */
 }
+.instructions{
+    text-align: left;
+    margin-left: 30em;
+}
+p{
+    margin-bottom: 0;
+    font-size: large;
+    text-align: justify center;
+}
